@@ -1,6 +1,7 @@
-D:\Training\Training_BDD\src\test\java\net\serenity_bdd\samples\etsy\features\steps\serenity\BuyerSteps.java
-D:\Training\Training_BDD\src\test\java\net\serenity_bdd\samples\etsy\pages\HomePage.java
-D:\Training\Training_BDD\src\test\java\net\serenity_bdd\samples\etsy\features\steps\SearchByKeywordStepDefinitions.java
-D:\Training\Training_BDD\src\test\java\net\serenity_bdd\samples\etsy\pages\ItemDetailsPage.java
-D:\Training\Training_BDD\src\test\java\net\serenity_bdd\samples\etsy\pages\SearchResultsPage.java
-D:\Training\Training_BDD\src\test\java\net\serenity_bdd\samples\etsy\features\AcceptanceTests.java
+D:\Personal\Projects\mySerenity\src\test\java\com\joecolantonio\serenity\steps\serenity\EndUserSteps.java
+D:\Personal\Projects\mySerenity\src\test\java\com\joecolantonio\serenity\steps\DefinitionSteps.java
+D:\Personal\Projects\mySerenity\src\test\java\com\joecolantonio\serenity\pages\HomePage.java
+D:\Personal\Projects\mySerenity\src\test\java\com\joecolantonio\serenity\pages\DictionaryPage.java
+D:\Personal\Projects\mySerenity\src\test\java\com\joecolantonio\serenity\pages\ItemDetailsPage.java
+D:\Personal\Projects\mySerenity\src\test\java\com\joecolantonio\serenity\pages\SearchResultsPage.java
+D:\Personal\Projects\mySerenity\src\test\java\com\joecolantonio\serenity\AcceptanceTestSuite.java

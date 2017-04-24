@@ -1,0 +1,41 @@
+<acceptance-test-run title="A scenario is a collection of executable steps of different type" name="A scenario is a collection of executable steps of different type" steps="3" successful="3" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="29891" timestamp="2017-04-23T21:56:31.489-05:00" session-id="e718ba253e05250d38b54c9c16f5bbb7">
+  <user-story id="myFirstStory" name="My first story" path="stories/consult_dictionary/myFirstStory.story"/>
+  <tags>
+    <tag name="Consult dictionary" type="feature"/>
+    <tag name="Consult dictionary/Sample story" type="story"/>
+    <tag name="My first story" type="story"/>
+  </tags>
+  <test-group name="Given the user is on etsy home page" result="SUCCESS">
+    <screenshots>
+      <screenshot image="b65f0dea58bc56ac12416dc6f7da8760.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="10545">
+      <screenshots>
+        <screenshot image="b65f0dea58bc56ac12416dc6f7da8760.png"/>
+      </screenshots>
+      <description>Is the home page</description>
+    </test-step>
+  </test-group>
+  <test-group name="When the user search the {shoes}" result="SUCCESS">
+    <screenshots>
+      <screenshot image="725008997ce2592204648e8a4c551797.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="7285">
+      <screenshots>
+        <screenshot image="725008997ce2592204648e8a4c551797.png"/>
+      </screenshots>
+      <description>Is searching for product: shoes</description>
+    </test-step>
+  </test-group>
+  <test-group name="Then the user land on shoes section page" result="SUCCESS">
+    <screenshots>
+      <screenshot image="725008997ce2592204648e8a4c551797.png"/>
+    </screenshots>
+    <test-step result="SUCCESS" duration="3364">
+      <screenshots>
+        <screenshot image="725008997ce2592204648e8a4c551797.png"/>
+      </screenshots>
+      <description>Is verifying for product page</description>
+    </test-step>
+  </test-group>
+</acceptance-test-run>
