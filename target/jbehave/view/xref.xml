@@ -2,7 +2,7 @@
   <stories>
     <performableStory>
       <story>
-        <path>stories/consult_dictionary/myFirstStory.story</path>
+        <path>Features/sample_features/myFirstStory.story</path>
         <description>
           <descriptionAsString>Sample story</descriptionAsString>
         </description>
@@ -26,16 +26,16 @@
             <tableTransformers>
               <transformers>
                 <entry>
-                  <string>FROM_LANDSCAPE</string>
-                  <fromLandscape/>
+                  <string>FORMATTING</string>
+                  <formatting/>
                 </entry>
                 <entry>
                   <string>REPLACING</string>
                   <replacing/>
                 </entry>
                 <entry>
-                  <string>FORMATTING</string>
-                  <formatting/>
+                  <string>FROM_LANDSCAPE</string>
+                  <fromLandscape/>
                 </entry>
               </transformers>
             </tableTransformers>
@@ -76,16 +76,16 @@
                 <tableTransformers>
                   <transformers>
                     <entry>
-                      <string>FROM_LANDSCAPE</string>
-                      <fromLandscape/>
+                      <string>FORMATTING</string>
+                      <formatting/>
                     </entry>
                     <entry>
                       <string>REPLACING</string>
                       <replacing/>
                     </entry>
                     <entry>
-                      <string>FORMATTING</string>
-                      <formatting/>
+                      <string>FROM_LANDSCAPE</string>
+                      <fromLandscape/>
                     </entry>
                   </transformers>
                 </tableTransformers>
@@ -109,16 +109,16 @@
               <tableTransformers>
                 <transformers>
                   <entry>
-                    <string>FROM_LANDSCAPE</string>
-                    <fromLandscape/>
+                    <string>FORMATTING</string>
+                    <formatting/>
                   </entry>
                   <entry>
                     <string>REPLACING</string>
                     <replacing/>
                   </entry>
                   <entry>
-                    <string>FORMATTING</string>
-                    <formatting/>
+                    <string>FROM_LANDSCAPE</string>
+                    <fromLandscape/>
                   </entry>
                 </transformers>
               </tableTransformers>
@@ -166,16 +166,16 @@ I want to use Behaviour-Driven Development</localizedNarrative>
                 <tableTransformers>
                   <transformers>
                     <entry>
-                      <string>FROM_LANDSCAPE</string>
-                      <fromLandscape/>
+                      <string>FORMATTING</string>
+                      <formatting/>
                     </entry>
                     <entry>
                       <string>REPLACING</string>
                       <replacing/>
                     </entry>
                     <entry>
-                      <string>FORMATTING</string>
-                      <formatting/>
+                      <string>FROM_LANDSCAPE</string>
+                      <fromLandscape/>
                     </entry>
                   </transformers>
                 </tableTransformers>
@@ -199,16 +199,16 @@ I want to use Behaviour-Driven Development</localizedNarrative>
               <tableTransformers>
                 <transformers>
                   <entry>
-                    <string>FROM_LANDSCAPE</string>
-                    <fromLandscape/>
+                    <string>FORMATTING</string>
+                    <formatting/>
                   </entry>
                   <entry>
                     <string>REPLACING</string>
                     <replacing/>
                   </entry>
                   <entry>
-                    <string>FORMATTING</string>
-                    <formatting/>
+                    <string>FROM_LANDSCAPE</string>
+                    <fromLandscape/>
                   </entry>
                 </transformers>
               </tableTransformers>
@@ -229,7 +229,7 @@ I want to use Behaviour-Driven Development</localizedNarrative>
               <string>Then the user land on shoes section page</string>
             </steps>
           </scenario>
-          <storyPath>stories/consult_dictionary/myFirstStory.story</storyPath>
+          <storyPath>Features/sample_features/myFirstStory.story</storyPath>
           <allowed>true</allowed>
           <normalPerformableScenario>
             <parameters/>
@@ -244,19 +244,25 @@ I want to use Behaviour-Driven Development</localizedNarrative>
                   <step>Given the user is on etsy home page</step>
                   <type>SUCCESSFUL</type>
                   <parametrisedStep>Given the user is on etsy home page</parametrisedStep>
-                  <durationInMillis>10926</durationInMillis>
+                  <durationInMillis>9803</durationInMillis>
+                  <start>1493312133100</start>
+                  <end>1493312142903</end>
                 </successful>
                 <successful>
                   <step>When the user search the shoes</step>
                   <type>SUCCESSFUL</type>
                   <parametrisedStep>When the user search the ｟shoes｠</parametrisedStep>
-                  <durationInMillis>7306</durationInMillis>
+                  <durationInMillis>6953</durationInMillis>
+                  <start>1493312144028</start>
+                  <end>1493312150981</end>
                 </successful>
                 <successful>
                   <step>Then the user land on shoes section page</step>
                   <type>SUCCESSFUL</type>
                   <parametrisedStep>Then the user land on shoes section page</parametrisedStep>
-                  <durationInMillis>3368</durationInMillis>
+                  <durationInMillis>489</durationInMillis>
+                  <start>1493312151424</start>
+                  <end>1493312151913</end>
                 </successful>
               </results>
             </steps>
@@ -282,16 +288,16 @@ I want to use Behaviour-Driven Development</localizedNarrative>
                   <tableTransformers>
                     <transformers>
                       <entry>
-                        <string>FROM_LANDSCAPE</string>
-                        <fromLandscape/>
+                        <string>FORMATTING</string>
+                        <formatting/>
                       </entry>
                       <entry>
                         <string>REPLACING</string>
                         <replacing/>
                       </entry>
                       <entry>
-                        <string>FORMATTING</string>
-                        <formatting/>
+                        <string>FROM_LANDSCAPE</string>
+                        <fromLandscape/>
                       </entry>
                     </transformers>
                   </tableTransformers>
@@ -315,16 +321,16 @@ I want to use Behaviour-Driven Development</localizedNarrative>
                 <tableTransformers>
                   <transformers>
                     <entry>
-                      <string>FROM_LANDSCAPE</string>
-                      <fromLandscape/>
+                      <string>FORMATTING</string>
+                      <formatting/>
                     </entry>
                     <entry>
                       <string>REPLACING</string>
                       <replacing/>
                     </entry>
                     <entry>
-                      <string>FORMATTING</string>
-                      <formatting/>
+                      <string>FROM_LANDSCAPE</string>
+                      <fromLandscape/>
                     </entry>
                   </transformers>
                 </tableTransformers>
@@ -353,805 +359,9 @@ I want to use Behaviour-Driven Development</localizedNarrative>
       <beforeSteps/>
       <afterSteps/>
       <timing>
-        <durationInMillis>30044</durationInMillis>
-      </timing>
-      <givenStory>false</givenStory>
-    </performableStory>
-    <performableStory>
-      <story>
-        <path>stories/consult_dictionary/LookupADefinition.story</path>
-        <description>
-          <descriptionAsString>Lookup a definition</descriptionAsString>
-        </description>
-        <narrative>
-          <inOrderTo>talk better</inOrderTo>
-          <asA>n English student</asA>
-          <iWantTo>look up word definitions</iWantTo>
-          <soThat></soThat>
-        </narrative>
-        <meta>
-          <properties/>
-        </meta>
-        <givenStories>
-          <givenStories/>
-          <givenStoriesAsString></givenStoriesAsString>
-          <examplesTable>
-            <tableAsString></tableAsString>
-            <headerSeparator>|</headerSeparator>
-            <valueSeparator>|</valueSeparator>
-            <ignorableSeparator>|--</ignorableSeparator>
-            <tableTransformers>
-              <transformers>
-                <entry>
-                  <string>FROM_LANDSCAPE</string>
-                  <fromLandscape/>
-                </entry>
-                <entry>
-                  <string>REPLACING</string>
-                  <replacing/>
-                </entry>
-                <entry>
-                  <string>FORMATTING</string>
-                  <formatting/>
-                </entry>
-              </transformers>
-            </tableTransformers>
-            <headers/>
-            <data/>
-            <properties>
-              <property name="headerSeparator" value="|"/>
-              <property name="valueSeparator" value="|"/>
-              <property name="ignorableSeparator" value="|--"/>
-            </properties>
-            <propertiesAsString></propertiesAsString>
-            <namedParameters/>
-            <trim>true</trim>
-          </examplesTable>
-        </givenStories>
-        <lifecycle>
-          <before>
-            <steps class="java.util.Arrays$ArrayList">
-              <a class="string-array"/>
-            </steps>
-          </before>
-          <after/>
-        </lifecycle>
-        <scenarios>
-          <scenario>
-            <title>Looking up the definition of &apos;apple&apos;</title>
-            <meta>
-              <properties/>
-            </meta>
-            <givenStories>
-              <givenStories/>
-              <givenStoriesAsString></givenStoriesAsString>
-              <examplesTable>
-                <tableAsString></tableAsString>
-                <headerSeparator>|</headerSeparator>
-                <valueSeparator>|</valueSeparator>
-                <ignorableSeparator>|--</ignorableSeparator>
-                <tableTransformers>
-                  <transformers>
-                    <entry>
-                      <string>FROM_LANDSCAPE</string>
-                      <fromLandscape/>
-                    </entry>
-                    <entry>
-                      <string>REPLACING</string>
-                      <replacing/>
-                    </entry>
-                    <entry>
-                      <string>FORMATTING</string>
-                      <formatting/>
-                    </entry>
-                  </transformers>
-                </tableTransformers>
-                <headers/>
-                <data/>
-                <properties>
-                  <property name="headerSeparator" value="|"/>
-                  <property name="valueSeparator" value="|"/>
-                  <property name="ignorableSeparator" value="|--"/>
-                </properties>
-                <propertiesAsString></propertiesAsString>
-                <namedParameters/>
-                <trim>true</trim>
-              </examplesTable>
-            </givenStories>
-            <examplesTable>
-              <tableAsString></tableAsString>
-              <headerSeparator>|</headerSeparator>
-              <valueSeparator>|</valueSeparator>
-              <ignorableSeparator>|--</ignorableSeparator>
-              <tableTransformers>
-                <transformers>
-                  <entry>
-                    <string>FROM_LANDSCAPE</string>
-                    <fromLandscape/>
-                  </entry>
-                  <entry>
-                    <string>REPLACING</string>
-                    <replacing/>
-                  </entry>
-                  <entry>
-                    <string>FORMATTING</string>
-                    <formatting/>
-                  </entry>
-                </transformers>
-              </tableTransformers>
-              <headers/>
-              <data/>
-              <properties>
-                <property name="headerSeparator" value="|"/>
-                <property name="valueSeparator" value="|"/>
-                <property name="ignorableSeparator" value="|--"/>
-              </properties>
-              <propertiesAsString></propertiesAsString>
-              <namedParameters/>
-              <trim>true</trim>
-            </examplesTable>
-            <steps>
-              <string>Given the user is on the Wikionary home page</string>
-              <string>When the user looks up the definition of the word &apos;apple&apos;</string>
-              <string>Then they should see the definition &apos;A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.&apos;</string>
-            </steps>
-          </scenario>
-          <scenario>
-            <title>Looking up the definition of &apos;pear&apos;</title>
-            <meta>
-              <properties/>
-            </meta>
-            <givenStories>
-              <givenStories/>
-              <givenStoriesAsString></givenStoriesAsString>
-              <examplesTable>
-                <tableAsString></tableAsString>
-                <headerSeparator>|</headerSeparator>
-                <valueSeparator>|</valueSeparator>
-                <ignorableSeparator>|--</ignorableSeparator>
-                <tableTransformers>
-                  <transformers>
-                    <entry>
-                      <string>FROM_LANDSCAPE</string>
-                      <fromLandscape/>
-                    </entry>
-                    <entry>
-                      <string>REPLACING</string>
-                      <replacing/>
-                    </entry>
-                    <entry>
-                      <string>FORMATTING</string>
-                      <formatting/>
-                    </entry>
-                  </transformers>
-                </tableTransformers>
-                <headers/>
-                <data/>
-                <properties>
-                  <property name="headerSeparator" value="|"/>
-                  <property name="valueSeparator" value="|"/>
-                  <property name="ignorableSeparator" value="|--"/>
-                </properties>
-                <propertiesAsString></propertiesAsString>
-                <namedParameters/>
-                <trim>true</trim>
-              </examplesTable>
-            </givenStories>
-            <examplesTable>
-              <tableAsString></tableAsString>
-              <headerSeparator>|</headerSeparator>
-              <valueSeparator>|</valueSeparator>
-              <ignorableSeparator>|--</ignorableSeparator>
-              <tableTransformers>
-                <transformers>
-                  <entry>
-                    <string>FROM_LANDSCAPE</string>
-                    <fromLandscape/>
-                  </entry>
-                  <entry>
-                    <string>REPLACING</string>
-                    <replacing/>
-                  </entry>
-                  <entry>
-                    <string>FORMATTING</string>
-                    <formatting/>
-                  </entry>
-                </transformers>
-              </tableTransformers>
-              <headers/>
-              <data/>
-              <properties>
-                <property name="headerSeparator" value="|"/>
-                <property name="valueSeparator" value="|"/>
-                <property name="ignorableSeparator" value="|--"/>
-              </properties>
-              <propertiesAsString></propertiesAsString>
-              <namedParameters/>
-              <trim>true</trim>
-            </examplesTable>
-            <steps>
-              <string>Given the user is on the Wikionary home page</string>
-              <string>When the user looks up the definition of the word &apos;pear&apos;</string>
-              <string>Then they should see the definition &apos;An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem.&apos;</string>
-            </steps>
-          </scenario>
-        </scenarios>
-        <name>LookupADefinition.story</name>
-      </story>
-      <localizedNarrative>In order to talk better
-As a n English student
-I want to look up word definitions</localizedNarrative>
-      <allowed>true</allowed>
-      <status>PENDING</status>
-      <givenStories/>
-      <scenarios>
-        <performableScenario>
-          <scenario>
-            <title>Looking up the definition of &apos;apple&apos;</title>
-            <meta>
-              <properties/>
-            </meta>
-            <givenStories>
-              <givenStories/>
-              <givenStoriesAsString></givenStoriesAsString>
-              <examplesTable>
-                <tableAsString></tableAsString>
-                <headerSeparator>|</headerSeparator>
-                <valueSeparator>|</valueSeparator>
-                <ignorableSeparator>|--</ignorableSeparator>
-                <tableTransformers>
-                  <transformers>
-                    <entry>
-                      <string>FROM_LANDSCAPE</string>
-                      <fromLandscape/>
-                    </entry>
-                    <entry>
-                      <string>REPLACING</string>
-                      <replacing/>
-                    </entry>
-                    <entry>
-                      <string>FORMATTING</string>
-                      <formatting/>
-                    </entry>
-                  </transformers>
-                </tableTransformers>
-                <headers/>
-                <data/>
-                <properties>
-                  <property name="headerSeparator" value="|"/>
-                  <property name="valueSeparator" value="|"/>
-                  <property name="ignorableSeparator" value="|--"/>
-                </properties>
-                <propertiesAsString></propertiesAsString>
-                <namedParameters/>
-                <trim>true</trim>
-              </examplesTable>
-            </givenStories>
-            <examplesTable>
-              <tableAsString></tableAsString>
-              <headerSeparator>|</headerSeparator>
-              <valueSeparator>|</valueSeparator>
-              <ignorableSeparator>|--</ignorableSeparator>
-              <tableTransformers>
-                <transformers>
-                  <entry>
-                    <string>FROM_LANDSCAPE</string>
-                    <fromLandscape/>
-                  </entry>
-                  <entry>
-                    <string>REPLACING</string>
-                    <replacing/>
-                  </entry>
-                  <entry>
-                    <string>FORMATTING</string>
-                    <formatting/>
-                  </entry>
-                </transformers>
-              </tableTransformers>
-              <headers/>
-              <data/>
-              <properties>
-                <property name="headerSeparator" value="|"/>
-                <property name="valueSeparator" value="|"/>
-                <property name="ignorableSeparator" value="|--"/>
-              </properties>
-              <propertiesAsString></propertiesAsString>
-              <namedParameters/>
-              <trim>true</trim>
-            </examplesTable>
-            <steps>
-              <string>Given the user is on the Wikionary home page</string>
-              <string>When the user looks up the definition of the word &apos;apple&apos;</string>
-              <string>Then they should see the definition &apos;A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.&apos;</string>
-            </steps>
-          </scenario>
-          <storyPath>stories/consult_dictionary/LookupADefinition.story</storyPath>
-          <allowed>true</allowed>
-          <normalPerformableScenario>
-            <parameters/>
-            <givenStories/>
-            <beforeSteps>
-              <matches/>
-            </beforeSteps>
-            <steps>
-              <matches/>
-              <results>
-                <pending>
-                  <step>Given the user is on the Wikionary home page</step>
-                  <type>PENDING</type>
-                  <throwable class="org.jbehave.core.failures.PendingStepFound">
-                    <detailMessage>Given the user is on the Wikionary home page</detailMessage>
-                    <stackTrace>
-                      <trace>org.jbehave.core.steps.AbstractStepResult$Pending.&lt;init&gt;(AbstractStepResult.java:58)</trace>
-                      <trace>org.jbehave.core.steps.AbstractStepResult.pending(AbstractStepResult.java:174)</trace>
-                      <trace>org.jbehave.core.steps.StepCreator$PendingStep.perform(StepCreator.java:739)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$FineSoFar.run(PerformableTree.java:340)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableSteps.perform(PerformableTree.java:1072)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$AbstractPerformableScenario.performRestartableSteps(PerformableTree.java:938)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$NormalPerformableScenario.perform(PerformableTree.java:977)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableScenario.perform(PerformableTree.java:887)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.performScenarios(PerformableTree.java:811)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.perform(PerformableTree.java:784)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree.performCancellable(PerformableTree.java:416)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree.perform(PerformableTree.java:387)</trace>
-                      <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:291)</trace>
-                      <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:265)</trace>
-                      <trace>java.util.concurrent.FutureTask.run(FutureTask.java:262)</trace>
-                      <trace>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)</trace>
-                      <trace>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)</trace>
-                      <trace>java.lang.Thread.run(Thread.java:745)</trace>
-                    </stackTrace>
-                    <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-                      <c class="list"/>
-                      <list/>
-                    </suppressedExceptions>
-                    <uuid>a81cd070-c1c1-4b1f-a9ca-62d09a7fe09c</uuid>
-                  </throwable>
-                  <durationInMillis>0</durationInMillis>
-                </pending>
-                <pending>
-                  <step>When the user looks up the definition of the word &apos;apple&apos;</step>
-                  <type>PENDING</type>
-                  <throwable class="org.jbehave.core.failures.PendingStepFound">
-                    <detailMessage>When the user looks up the definition of the word &apos;apple&apos;</detailMessage>
-                    <stackTrace>
-                      <trace>org.jbehave.core.steps.AbstractStepResult$Pending.&lt;init&gt;(AbstractStepResult.java:58)</trace>
-                      <trace>org.jbehave.core.steps.AbstractStepResult.pending(AbstractStepResult.java:174)</trace>
-                      <trace>org.jbehave.core.steps.StepCreator$PendingStep.doNotPerform(StepCreator.java:743)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$SomethingHappened.run(PerformableTree.java:372)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableSteps.perform(PerformableTree.java:1072)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$AbstractPerformableScenario.performRestartableSteps(PerformableTree.java:938)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$NormalPerformableScenario.perform(PerformableTree.java:977)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableScenario.perform(PerformableTree.java:887)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.performScenarios(PerformableTree.java:811)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.perform(PerformableTree.java:784)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree.performCancellable(PerformableTree.java:416)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree.perform(PerformableTree.java:387)</trace>
-                      <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:291)</trace>
-                      <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:265)</trace>
-                      <trace>java.util.concurrent.FutureTask.run(FutureTask.java:262)</trace>
-                      <trace>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)</trace>
-                      <trace>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)</trace>
-                      <trace>java.lang.Thread.run(Thread.java:745)</trace>
-                    </stackTrace>
-                    <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-                      <c class="list"/>
-                      <list/>
-                    </suppressedExceptions>
-                    <uuid>e07c59c1-5763-4062-8b61-d97bcb9d836d</uuid>
-                  </throwable>
-                  <durationInMillis>0</durationInMillis>
-                </pending>
-                <pending>
-                  <step>Then they should see the definition &apos;A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.&apos;</step>
-                  <type>PENDING</type>
-                  <throwable class="org.jbehave.core.failures.PendingStepFound">
-                    <detailMessage>Then they should see the definition &apos;A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.&apos;</detailMessage>
-                    <stackTrace>
-                      <trace>org.jbehave.core.steps.AbstractStepResult$Pending.&lt;init&gt;(AbstractStepResult.java:58)</trace>
-                      <trace>org.jbehave.core.steps.AbstractStepResult.pending(AbstractStepResult.java:174)</trace>
-                      <trace>org.jbehave.core.steps.StepCreator$PendingStep.doNotPerform(StepCreator.java:743)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$SomethingHappened.run(PerformableTree.java:372)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableSteps.perform(PerformableTree.java:1072)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$AbstractPerformableScenario.performRestartableSteps(PerformableTree.java:938)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$NormalPerformableScenario.perform(PerformableTree.java:977)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableScenario.perform(PerformableTree.java:887)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.performScenarios(PerformableTree.java:811)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.perform(PerformableTree.java:784)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree.performCancellable(PerformableTree.java:416)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree.perform(PerformableTree.java:387)</trace>
-                      <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:291)</trace>
-                      <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:265)</trace>
-                      <trace>java.util.concurrent.FutureTask.run(FutureTask.java:262)</trace>
-                      <trace>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)</trace>
-                      <trace>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)</trace>
-                      <trace>java.lang.Thread.run(Thread.java:745)</trace>
-                    </stackTrace>
-                    <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-                      <c class="list"/>
-                      <list/>
-                    </suppressedExceptions>
-                    <uuid>b832a053-a35a-44e3-8f57-e793fbf16f94</uuid>
-                  </throwable>
-                  <durationInMillis>0</durationInMillis>
-                </pending>
-              </results>
-            </steps>
-            <afterSteps>
-              <matches/>
-            </afterSteps>
-            <storyAndScenarioMeta>
-              <properties/>
-            </storyAndScenarioMeta>
-            <scenario>
-              <title>Looking up the definition of &apos;apple&apos;</title>
-              <meta>
-                <properties/>
-              </meta>
-              <givenStories>
-                <givenStories/>
-                <givenStoriesAsString></givenStoriesAsString>
-                <examplesTable>
-                  <tableAsString></tableAsString>
-                  <headerSeparator>|</headerSeparator>
-                  <valueSeparator>|</valueSeparator>
-                  <ignorableSeparator>|--</ignorableSeparator>
-                  <tableTransformers>
-                    <transformers>
-                      <entry>
-                        <string>FROM_LANDSCAPE</string>
-                        <fromLandscape/>
-                      </entry>
-                      <entry>
-                        <string>REPLACING</string>
-                        <replacing/>
-                      </entry>
-                      <entry>
-                        <string>FORMATTING</string>
-                        <formatting/>
-                      </entry>
-                    </transformers>
-                  </tableTransformers>
-                  <headers/>
-                  <data/>
-                  <properties>
-                    <property name="headerSeparator" value="|"/>
-                    <property name="valueSeparator" value="|"/>
-                    <property name="ignorableSeparator" value="|--"/>
-                  </properties>
-                  <propertiesAsString></propertiesAsString>
-                  <namedParameters/>
-                  <trim>true</trim>
-                </examplesTable>
-              </givenStories>
-              <examplesTable>
-                <tableAsString></tableAsString>
-                <headerSeparator>|</headerSeparator>
-                <valueSeparator>|</valueSeparator>
-                <ignorableSeparator>|--</ignorableSeparator>
-                <tableTransformers>
-                  <transformers>
-                    <entry>
-                      <string>FROM_LANDSCAPE</string>
-                      <fromLandscape/>
-                    </entry>
-                    <entry>
-                      <string>REPLACING</string>
-                      <replacing/>
-                    </entry>
-                    <entry>
-                      <string>FORMATTING</string>
-                      <formatting/>
-                    </entry>
-                  </transformers>
-                </tableTransformers>
-                <headers/>
-                <data/>
-                <properties>
-                  <property name="headerSeparator" value="|"/>
-                  <property name="valueSeparator" value="|"/>
-                  <property name="ignorableSeparator" value="|--"/>
-                </properties>
-                <propertiesAsString></propertiesAsString>
-                <namedParameters/>
-                <trim>true</trim>
-              </examplesTable>
-              <steps>
-                <string>Given the user is on the Wikionary home page</string>
-                <string>When the user looks up the definition of the word &apos;apple&apos;</string>
-                <string>Then they should see the definition &apos;A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.&apos;</string>
-              </steps>
-            </scenario>
-          </normalPerformableScenario>
-          <examplePerformableScenarios/>
-          <status>PENDING</status>
-        </performableScenario>
-        <performableScenario>
-          <scenario>
-            <title>Looking up the definition of &apos;pear&apos;</title>
-            <meta>
-              <properties/>
-            </meta>
-            <givenStories>
-              <givenStories/>
-              <givenStoriesAsString></givenStoriesAsString>
-              <examplesTable>
-                <tableAsString></tableAsString>
-                <headerSeparator>|</headerSeparator>
-                <valueSeparator>|</valueSeparator>
-                <ignorableSeparator>|--</ignorableSeparator>
-                <tableTransformers>
-                  <transformers>
-                    <entry>
-                      <string>FROM_LANDSCAPE</string>
-                      <fromLandscape/>
-                    </entry>
-                    <entry>
-                      <string>REPLACING</string>
-                      <replacing/>
-                    </entry>
-                    <entry>
-                      <string>FORMATTING</string>
-                      <formatting/>
-                    </entry>
-                  </transformers>
-                </tableTransformers>
-                <headers/>
-                <data/>
-                <properties>
-                  <property name="headerSeparator" value="|"/>
-                  <property name="valueSeparator" value="|"/>
-                  <property name="ignorableSeparator" value="|--"/>
-                </properties>
-                <propertiesAsString></propertiesAsString>
-                <namedParameters/>
-                <trim>true</trim>
-              </examplesTable>
-            </givenStories>
-            <examplesTable>
-              <tableAsString></tableAsString>
-              <headerSeparator>|</headerSeparator>
-              <valueSeparator>|</valueSeparator>
-              <ignorableSeparator>|--</ignorableSeparator>
-              <tableTransformers>
-                <transformers>
-                  <entry>
-                    <string>FROM_LANDSCAPE</string>
-                    <fromLandscape/>
-                  </entry>
-                  <entry>
-                    <string>REPLACING</string>
-                    <replacing/>
-                  </entry>
-                  <entry>
-                    <string>FORMATTING</string>
-                    <formatting/>
-                  </entry>
-                </transformers>
-              </tableTransformers>
-              <headers/>
-              <data/>
-              <properties>
-                <property name="headerSeparator" value="|"/>
-                <property name="valueSeparator" value="|"/>
-                <property name="ignorableSeparator" value="|--"/>
-              </properties>
-              <propertiesAsString></propertiesAsString>
-              <namedParameters/>
-              <trim>true</trim>
-            </examplesTable>
-            <steps>
-              <string>Given the user is on the Wikionary home page</string>
-              <string>When the user looks up the definition of the word &apos;pear&apos;</string>
-              <string>Then they should see the definition &apos;An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem.&apos;</string>
-            </steps>
-          </scenario>
-          <storyPath>stories/consult_dictionary/LookupADefinition.story</storyPath>
-          <allowed>true</allowed>
-          <normalPerformableScenario>
-            <parameters/>
-            <givenStories/>
-            <beforeSteps>
-              <matches/>
-            </beforeSteps>
-            <steps>
-              <matches/>
-              <results>
-                <pending>
-                  <step>Given the user is on the Wikionary home page</step>
-                  <type>PENDING</type>
-                  <throwable class="org.jbehave.core.failures.PendingStepFound">
-                    <detailMessage>Given the user is on the Wikionary home page</detailMessage>
-                    <stackTrace>
-                      <trace>org.jbehave.core.steps.AbstractStepResult$Pending.&lt;init&gt;(AbstractStepResult.java:58)</trace>
-                      <trace>org.jbehave.core.steps.AbstractStepResult.pending(AbstractStepResult.java:174)</trace>
-                      <trace>org.jbehave.core.steps.StepCreator$PendingStep.perform(StepCreator.java:739)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$FineSoFar.run(PerformableTree.java:340)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableSteps.perform(PerformableTree.java:1072)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$AbstractPerformableScenario.performRestartableSteps(PerformableTree.java:938)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$NormalPerformableScenario.perform(PerformableTree.java:977)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableScenario.perform(PerformableTree.java:887)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.performScenarios(PerformableTree.java:811)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.perform(PerformableTree.java:784)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree.performCancellable(PerformableTree.java:416)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree.perform(PerformableTree.java:387)</trace>
-                      <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:291)</trace>
-                      <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:265)</trace>
-                      <trace>java.util.concurrent.FutureTask.run(FutureTask.java:262)</trace>
-                      <trace>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)</trace>
-                      <trace>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)</trace>
-                      <trace>java.lang.Thread.run(Thread.java:745)</trace>
-                    </stackTrace>
-                    <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-                      <c class="list"/>
-                      <list/>
-                    </suppressedExceptions>
-                    <uuid>11e93186-07af-4c8e-b11b-70849380687d</uuid>
-                  </throwable>
-                  <durationInMillis>0</durationInMillis>
-                </pending>
-                <pending>
-                  <step>When the user looks up the definition of the word &apos;pear&apos;</step>
-                  <type>PENDING</type>
-                  <throwable class="org.jbehave.core.failures.PendingStepFound">
-                    <detailMessage>When the user looks up the definition of the word &apos;pear&apos;</detailMessage>
-                    <stackTrace>
-                      <trace>org.jbehave.core.steps.AbstractStepResult$Pending.&lt;init&gt;(AbstractStepResult.java:58)</trace>
-                      <trace>org.jbehave.core.steps.AbstractStepResult.pending(AbstractStepResult.java:174)</trace>
-                      <trace>org.jbehave.core.steps.StepCreator$PendingStep.doNotPerform(StepCreator.java:743)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$SomethingHappened.run(PerformableTree.java:372)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableSteps.perform(PerformableTree.java:1072)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$AbstractPerformableScenario.performRestartableSteps(PerformableTree.java:938)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$NormalPerformableScenario.perform(PerformableTree.java:977)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableScenario.perform(PerformableTree.java:887)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.performScenarios(PerformableTree.java:811)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.perform(PerformableTree.java:784)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree.performCancellable(PerformableTree.java:416)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree.perform(PerformableTree.java:387)</trace>
-                      <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:291)</trace>
-                      <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:265)</trace>
-                      <trace>java.util.concurrent.FutureTask.run(FutureTask.java:262)</trace>
-                      <trace>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)</trace>
-                      <trace>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)</trace>
-                      <trace>java.lang.Thread.run(Thread.java:745)</trace>
-                    </stackTrace>
-                    <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-                      <c class="list"/>
-                      <list/>
-                    </suppressedExceptions>
-                    <uuid>88427e46-b463-4050-a273-24c79b9f98a2</uuid>
-                  </throwable>
-                  <durationInMillis>0</durationInMillis>
-                </pending>
-                <pending>
-                  <step>Then they should see the definition &apos;An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem.&apos;</step>
-                  <type>PENDING</type>
-                  <throwable class="org.jbehave.core.failures.PendingStepFound">
-                    <detailMessage>Then they should see the definition &apos;An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem.&apos;</detailMessage>
-                    <stackTrace>
-                      <trace>org.jbehave.core.steps.AbstractStepResult$Pending.&lt;init&gt;(AbstractStepResult.java:58)</trace>
-                      <trace>org.jbehave.core.steps.AbstractStepResult.pending(AbstractStepResult.java:174)</trace>
-                      <trace>org.jbehave.core.steps.StepCreator$PendingStep.doNotPerform(StepCreator.java:743)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$SomethingHappened.run(PerformableTree.java:372)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableSteps.perform(PerformableTree.java:1072)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$AbstractPerformableScenario.performRestartableSteps(PerformableTree.java:938)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$NormalPerformableScenario.perform(PerformableTree.java:977)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableScenario.perform(PerformableTree.java:887)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.performScenarios(PerformableTree.java:811)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.perform(PerformableTree.java:784)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree.performCancellable(PerformableTree.java:416)</trace>
-                      <trace>org.jbehave.core.embedder.PerformableTree.perform(PerformableTree.java:387)</trace>
-                      <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:291)</trace>
-                      <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:265)</trace>
-                      <trace>java.util.concurrent.FutureTask.run(FutureTask.java:262)</trace>
-                      <trace>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)</trace>
-                      <trace>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)</trace>
-                      <trace>java.lang.Thread.run(Thread.java:745)</trace>
-                    </stackTrace>
-                    <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-                      <c class="list"/>
-                      <list/>
-                    </suppressedExceptions>
-                    <uuid>1e1389c4-3cea-44e7-a9fa-ac02d118c395</uuid>
-                  </throwable>
-                  <durationInMillis>0</durationInMillis>
-                </pending>
-              </results>
-            </steps>
-            <afterSteps>
-              <matches/>
-            </afterSteps>
-            <storyAndScenarioMeta>
-              <properties/>
-            </storyAndScenarioMeta>
-            <scenario>
-              <title>Looking up the definition of &apos;pear&apos;</title>
-              <meta>
-                <properties/>
-              </meta>
-              <givenStories>
-                <givenStories/>
-                <givenStoriesAsString></givenStoriesAsString>
-                <examplesTable>
-                  <tableAsString></tableAsString>
-                  <headerSeparator>|</headerSeparator>
-                  <valueSeparator>|</valueSeparator>
-                  <ignorableSeparator>|--</ignorableSeparator>
-                  <tableTransformers>
-                    <transformers>
-                      <entry>
-                        <string>FROM_LANDSCAPE</string>
-                        <fromLandscape/>
-                      </entry>
-                      <entry>
-                        <string>REPLACING</string>
-                        <replacing/>
-                      </entry>
-                      <entry>
-                        <string>FORMATTING</string>
-                        <formatting/>
-                      </entry>
-                    </transformers>
-                  </tableTransformers>
-                  <headers/>
-                  <data/>
-                  <properties>
-                    <property name="headerSeparator" value="|"/>
-                    <property name="valueSeparator" value="|"/>
-                    <property name="ignorableSeparator" value="|--"/>
-                  </properties>
-                  <propertiesAsString></propertiesAsString>
-                  <namedParameters/>
-                  <trim>true</trim>
-                </examplesTable>
-              </givenStories>
-              <examplesTable>
-                <tableAsString></tableAsString>
-                <headerSeparator>|</headerSeparator>
-                <valueSeparator>|</valueSeparator>
-                <ignorableSeparator>|--</ignorableSeparator>
-                <tableTransformers>
-                  <transformers>
-                    <entry>
-                      <string>FROM_LANDSCAPE</string>
-                      <fromLandscape/>
-                    </entry>
-                    <entry>
-                      <string>REPLACING</string>
-                      <replacing/>
-                    </entry>
-                    <entry>
-                      <string>FORMATTING</string>
-                      <formatting/>
-                    </entry>
-                  </transformers>
-                </tableTransformers>
-                <headers/>
-                <data/>
-                <properties>
-                  <property name="headerSeparator" value="|"/>
-                  <property name="valueSeparator" value="|"/>
-                  <property name="ignorableSeparator" value="|--"/>
-                </properties>
-                <propertiesAsString></propertiesAsString>
-                <namedParameters/>
-                <trim>true</trim>
-              </examplesTable>
-              <steps>
-                <string>Given the user is on the Wikionary home page</string>
-                <string>When the user looks up the definition of the word &apos;pear&apos;</string>
-                <string>Then they should see the definition &apos;An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem.&apos;</string>
-              </steps>
-            </scenario>
-          </normalPerformableScenario>
-          <examplePerformableScenarios/>
-          <status>PENDING</status>
-        </performableScenario>
-      </scenarios>
-      <beforeSteps/>
-      <afterSteps/>
-      <timing>
-        <durationInMillis>65</durationInMillis>
+        <durationInMillis>19484</durationInMillis>
+        <start>1493312132882</start>
+        <end>1493312152366</end>
       </timing>
       <givenStory>false</givenStory>
     </performableStory>
@@ -1174,16 +384,16 @@ I want to look up word definitions</localizedNarrative>
             <tableTransformers>
               <transformers>
                 <entry>
-                  <string>FROM_LANDSCAPE</string>
-                  <fromLandscape/>
+                  <string>FORMATTING</string>
+                  <formatting/>
                 </entry>
                 <entry>
                   <string>REPLACING</string>
                   <replacing/>
                 </entry>
                 <entry>
-                  <string>FORMATTING</string>
-                  <formatting/>
+                  <string>FROM_LANDSCAPE</string>
+                  <fromLandscape/>
                 </entry>
               </transformers>
             </tableTransformers>
@@ -1207,16 +417,16 @@ I want to look up word definitions</localizedNarrative>
           <tableTransformers>
             <transformers>
               <entry>
-                <string>FROM_LANDSCAPE</string>
-                <fromLandscape/>
+                <string>FORMATTING</string>
+                <formatting/>
               </entry>
               <entry>
                 <string>REPLACING</string>
                 <replacing/>
               </entry>
               <entry>
-                <string>FORMATTING</string>
-                <formatting/>
+                <string>FROM_LANDSCAPE</string>
+                <fromLandscape/>
               </entry>
             </transformers>
           </tableTransformers>
@@ -1237,7 +447,7 @@ I want to look up word definitions</localizedNarrative>
           <string>Then the user land on shoes section page</string>
         </steps>
       </scenario>
-      <storyPath>stories/consult_dictionary/myFirstStory.story</storyPath>
+      <storyPath>Features/sample_features/myFirstStory.story</storyPath>
       <allowed>true</allowed>
       <normalPerformableScenario>
         <parameters/>
@@ -1252,19 +462,25 @@ I want to look up word definitions</localizedNarrative>
               <step>Given the user is on etsy home page</step>
               <type>SUCCESSFUL</type>
               <parametrisedStep>Given the user is on etsy home page</parametrisedStep>
-              <durationInMillis>10926</durationInMillis>
+              <durationInMillis>9803</durationInMillis>
+              <start>1493312133100</start>
+              <end>1493312142903</end>
             </successful>
             <successful>
               <step>When the user search the shoes</step>
               <type>SUCCESSFUL</type>
               <parametrisedStep>When the user search the ｟shoes｠</parametrisedStep>
-              <durationInMillis>7306</durationInMillis>
+              <durationInMillis>6953</durationInMillis>
+              <start>1493312144028</start>
+              <end>1493312150981</end>
             </successful>
             <successful>
               <step>Then the user land on shoes section page</step>
               <type>SUCCESSFUL</type>
               <parametrisedStep>Then the user land on shoes section page</parametrisedStep>
-              <durationInMillis>3368</durationInMillis>
+              <durationInMillis>489</durationInMillis>
+              <start>1493312151424</start>
+              <end>1493312151913</end>
             </successful>
           </results>
         </steps>
@@ -1290,16 +506,16 @@ I want to look up word definitions</localizedNarrative>
               <tableTransformers>
                 <transformers>
                   <entry>
-                    <string>FROM_LANDSCAPE</string>
-                    <fromLandscape/>
+                    <string>FORMATTING</string>
+                    <formatting/>
                   </entry>
                   <entry>
                     <string>REPLACING</string>
                     <replacing/>
                   </entry>
                   <entry>
-                    <string>FORMATTING</string>
-                    <formatting/>
+                    <string>FROM_LANDSCAPE</string>
+                    <fromLandscape/>
                   </entry>
                 </transformers>
               </tableTransformers>
@@ -1323,16 +539,16 @@ I want to look up word definitions</localizedNarrative>
             <tableTransformers>
               <transformers>
                 <entry>
-                  <string>FROM_LANDSCAPE</string>
-                  <fromLandscape/>
+                  <string>FORMATTING</string>
+                  <formatting/>
                 </entry>
                 <entry>
                   <string>REPLACING</string>
                   <replacing/>
                 </entry>
                 <entry>
-                  <string>FORMATTING</string>
-                  <formatting/>
+                  <string>FROM_LANDSCAPE</string>
+                  <fromLandscape/>
                 </entry>
               </transformers>
             </tableTransformers>
@@ -1356,568 +572,6 @@ I want to look up word definitions</localizedNarrative>
       </normalPerformableScenario>
       <examplePerformableScenarios/>
       <status>SUCCESSFUL</status>
-    </performableScenario>
-    <performableScenario>
-      <scenario>
-        <title>Looking up the definition of &apos;apple&apos;</title>
-        <meta>
-          <properties/>
-        </meta>
-        <givenStories>
-          <givenStories/>
-          <givenStoriesAsString></givenStoriesAsString>
-          <examplesTable>
-            <tableAsString></tableAsString>
-            <headerSeparator>|</headerSeparator>
-            <valueSeparator>|</valueSeparator>
-            <ignorableSeparator>|--</ignorableSeparator>
-            <tableTransformers>
-              <transformers>
-                <entry>
-                  <string>FROM_LANDSCAPE</string>
-                  <fromLandscape/>
-                </entry>
-                <entry>
-                  <string>REPLACING</string>
-                  <replacing/>
-                </entry>
-                <entry>
-                  <string>FORMATTING</string>
-                  <formatting/>
-                </entry>
-              </transformers>
-            </tableTransformers>
-            <headers/>
-            <data/>
-            <properties>
-              <property name="headerSeparator" value="|"/>
-              <property name="valueSeparator" value="|"/>
-              <property name="ignorableSeparator" value="|--"/>
-            </properties>
-            <propertiesAsString></propertiesAsString>
-            <namedParameters/>
-            <trim>true</trim>
-          </examplesTable>
-        </givenStories>
-        <examplesTable>
-          <tableAsString></tableAsString>
-          <headerSeparator>|</headerSeparator>
-          <valueSeparator>|</valueSeparator>
-          <ignorableSeparator>|--</ignorableSeparator>
-          <tableTransformers>
-            <transformers>
-              <entry>
-                <string>FROM_LANDSCAPE</string>
-                <fromLandscape/>
-              </entry>
-              <entry>
-                <string>REPLACING</string>
-                <replacing/>
-              </entry>
-              <entry>
-                <string>FORMATTING</string>
-                <formatting/>
-              </entry>
-            </transformers>
-          </tableTransformers>
-          <headers/>
-          <data/>
-          <properties>
-            <property name="headerSeparator" value="|"/>
-            <property name="valueSeparator" value="|"/>
-            <property name="ignorableSeparator" value="|--"/>
-          </properties>
-          <propertiesAsString></propertiesAsString>
-          <namedParameters/>
-          <trim>true</trim>
-        </examplesTable>
-        <steps>
-          <string>Given the user is on the Wikionary home page</string>
-          <string>When the user looks up the definition of the word &apos;apple&apos;</string>
-          <string>Then they should see the definition &apos;A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.&apos;</string>
-        </steps>
-      </scenario>
-      <storyPath>stories/consult_dictionary/LookupADefinition.story</storyPath>
-      <allowed>true</allowed>
-      <normalPerformableScenario>
-        <parameters/>
-        <givenStories/>
-        <beforeSteps>
-          <matches/>
-        </beforeSteps>
-        <steps>
-          <matches/>
-          <results>
-            <pending>
-              <step>Given the user is on the Wikionary home page</step>
-              <type>PENDING</type>
-              <throwable class="org.jbehave.core.failures.PendingStepFound">
-                <detailMessage>Given the user is on the Wikionary home page</detailMessage>
-                <stackTrace>
-                  <trace>org.jbehave.core.steps.AbstractStepResult$Pending.&lt;init&gt;(AbstractStepResult.java:58)</trace>
-                  <trace>org.jbehave.core.steps.AbstractStepResult.pending(AbstractStepResult.java:174)</trace>
-                  <trace>org.jbehave.core.steps.StepCreator$PendingStep.perform(StepCreator.java:739)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$FineSoFar.run(PerformableTree.java:340)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableSteps.perform(PerformableTree.java:1072)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$AbstractPerformableScenario.performRestartableSteps(PerformableTree.java:938)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$NormalPerformableScenario.perform(PerformableTree.java:977)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableScenario.perform(PerformableTree.java:887)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.performScenarios(PerformableTree.java:811)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.perform(PerformableTree.java:784)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree.performCancellable(PerformableTree.java:416)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree.perform(PerformableTree.java:387)</trace>
-                  <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:291)</trace>
-                  <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:265)</trace>
-                  <trace>java.util.concurrent.FutureTask.run(FutureTask.java:262)</trace>
-                  <trace>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)</trace>
-                  <trace>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)</trace>
-                  <trace>java.lang.Thread.run(Thread.java:745)</trace>
-                </stackTrace>
-                <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-                  <c class="list"/>
-                  <list/>
-                </suppressedExceptions>
-                <uuid>a81cd070-c1c1-4b1f-a9ca-62d09a7fe09c</uuid>
-              </throwable>
-              <durationInMillis>0</durationInMillis>
-            </pending>
-            <pending>
-              <step>When the user looks up the definition of the word &apos;apple&apos;</step>
-              <type>PENDING</type>
-              <throwable class="org.jbehave.core.failures.PendingStepFound">
-                <detailMessage>When the user looks up the definition of the word &apos;apple&apos;</detailMessage>
-                <stackTrace>
-                  <trace>org.jbehave.core.steps.AbstractStepResult$Pending.&lt;init&gt;(AbstractStepResult.java:58)</trace>
-                  <trace>org.jbehave.core.steps.AbstractStepResult.pending(AbstractStepResult.java:174)</trace>
-                  <trace>org.jbehave.core.steps.StepCreator$PendingStep.doNotPerform(StepCreator.java:743)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$SomethingHappened.run(PerformableTree.java:372)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableSteps.perform(PerformableTree.java:1072)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$AbstractPerformableScenario.performRestartableSteps(PerformableTree.java:938)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$NormalPerformableScenario.perform(PerformableTree.java:977)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableScenario.perform(PerformableTree.java:887)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.performScenarios(PerformableTree.java:811)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.perform(PerformableTree.java:784)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree.performCancellable(PerformableTree.java:416)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree.perform(PerformableTree.java:387)</trace>
-                  <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:291)</trace>
-                  <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:265)</trace>
-                  <trace>java.util.concurrent.FutureTask.run(FutureTask.java:262)</trace>
-                  <trace>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)</trace>
-                  <trace>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)</trace>
-                  <trace>java.lang.Thread.run(Thread.java:745)</trace>
-                </stackTrace>
-                <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-                  <c class="list"/>
-                  <list/>
-                </suppressedExceptions>
-                <uuid>e07c59c1-5763-4062-8b61-d97bcb9d836d</uuid>
-              </throwable>
-              <durationInMillis>0</durationInMillis>
-            </pending>
-            <pending>
-              <step>Then they should see the definition &apos;A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.&apos;</step>
-              <type>PENDING</type>
-              <throwable class="org.jbehave.core.failures.PendingStepFound">
-                <detailMessage>Then they should see the definition &apos;A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.&apos;</detailMessage>
-                <stackTrace>
-                  <trace>org.jbehave.core.steps.AbstractStepResult$Pending.&lt;init&gt;(AbstractStepResult.java:58)</trace>
-                  <trace>org.jbehave.core.steps.AbstractStepResult.pending(AbstractStepResult.java:174)</trace>
-                  <trace>org.jbehave.core.steps.StepCreator$PendingStep.doNotPerform(StepCreator.java:743)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$SomethingHappened.run(PerformableTree.java:372)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableSteps.perform(PerformableTree.java:1072)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$AbstractPerformableScenario.performRestartableSteps(PerformableTree.java:938)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$NormalPerformableScenario.perform(PerformableTree.java:977)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableScenario.perform(PerformableTree.java:887)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.performScenarios(PerformableTree.java:811)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.perform(PerformableTree.java:784)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree.performCancellable(PerformableTree.java:416)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree.perform(PerformableTree.java:387)</trace>
-                  <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:291)</trace>
-                  <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:265)</trace>
-                  <trace>java.util.concurrent.FutureTask.run(FutureTask.java:262)</trace>
-                  <trace>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)</trace>
-                  <trace>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)</trace>
-                  <trace>java.lang.Thread.run(Thread.java:745)</trace>
-                </stackTrace>
-                <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-                  <c class="list"/>
-                  <list/>
-                </suppressedExceptions>
-                <uuid>b832a053-a35a-44e3-8f57-e793fbf16f94</uuid>
-              </throwable>
-              <durationInMillis>0</durationInMillis>
-            </pending>
-          </results>
-        </steps>
-        <afterSteps>
-          <matches/>
-        </afterSteps>
-        <storyAndScenarioMeta>
-          <properties/>
-        </storyAndScenarioMeta>
-        <scenario>
-          <title>Looking up the definition of &apos;apple&apos;</title>
-          <meta>
-            <properties/>
-          </meta>
-          <givenStories>
-            <givenStories/>
-            <givenStoriesAsString></givenStoriesAsString>
-            <examplesTable>
-              <tableAsString></tableAsString>
-              <headerSeparator>|</headerSeparator>
-              <valueSeparator>|</valueSeparator>
-              <ignorableSeparator>|--</ignorableSeparator>
-              <tableTransformers>
-                <transformers>
-                  <entry>
-                    <string>FROM_LANDSCAPE</string>
-                    <fromLandscape/>
-                  </entry>
-                  <entry>
-                    <string>REPLACING</string>
-                    <replacing/>
-                  </entry>
-                  <entry>
-                    <string>FORMATTING</string>
-                    <formatting/>
-                  </entry>
-                </transformers>
-              </tableTransformers>
-              <headers/>
-              <data/>
-              <properties>
-                <property name="headerSeparator" value="|"/>
-                <property name="valueSeparator" value="|"/>
-                <property name="ignorableSeparator" value="|--"/>
-              </properties>
-              <propertiesAsString></propertiesAsString>
-              <namedParameters/>
-              <trim>true</trim>
-            </examplesTable>
-          </givenStories>
-          <examplesTable>
-            <tableAsString></tableAsString>
-            <headerSeparator>|</headerSeparator>
-            <valueSeparator>|</valueSeparator>
-            <ignorableSeparator>|--</ignorableSeparator>
-            <tableTransformers>
-              <transformers>
-                <entry>
-                  <string>FROM_LANDSCAPE</string>
-                  <fromLandscape/>
-                </entry>
-                <entry>
-                  <string>REPLACING</string>
-                  <replacing/>
-                </entry>
-                <entry>
-                  <string>FORMATTING</string>
-                  <formatting/>
-                </entry>
-              </transformers>
-            </tableTransformers>
-            <headers/>
-            <data/>
-            <properties>
-              <property name="headerSeparator" value="|"/>
-              <property name="valueSeparator" value="|"/>
-              <property name="ignorableSeparator" value="|--"/>
-            </properties>
-            <propertiesAsString></propertiesAsString>
-            <namedParameters/>
-            <trim>true</trim>
-          </examplesTable>
-          <steps>
-            <string>Given the user is on the Wikionary home page</string>
-            <string>When the user looks up the definition of the word &apos;apple&apos;</string>
-            <string>Then they should see the definition &apos;A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.&apos;</string>
-          </steps>
-        </scenario>
-      </normalPerformableScenario>
-      <examplePerformableScenarios/>
-      <status>PENDING</status>
-    </performableScenario>
-    <performableScenario>
-      <scenario>
-        <title>Looking up the definition of &apos;pear&apos;</title>
-        <meta>
-          <properties/>
-        </meta>
-        <givenStories>
-          <givenStories/>
-          <givenStoriesAsString></givenStoriesAsString>
-          <examplesTable>
-            <tableAsString></tableAsString>
-            <headerSeparator>|</headerSeparator>
-            <valueSeparator>|</valueSeparator>
-            <ignorableSeparator>|--</ignorableSeparator>
-            <tableTransformers>
-              <transformers>
-                <entry>
-                  <string>FROM_LANDSCAPE</string>
-                  <fromLandscape/>
-                </entry>
-                <entry>
-                  <string>REPLACING</string>
-                  <replacing/>
-                </entry>
-                <entry>
-                  <string>FORMATTING</string>
-                  <formatting/>
-                </entry>
-              </transformers>
-            </tableTransformers>
-            <headers/>
-            <data/>
-            <properties>
-              <property name="headerSeparator" value="|"/>
-              <property name="valueSeparator" value="|"/>
-              <property name="ignorableSeparator" value="|--"/>
-            </properties>
-            <propertiesAsString></propertiesAsString>
-            <namedParameters/>
-            <trim>true</trim>
-          </examplesTable>
-        </givenStories>
-        <examplesTable>
-          <tableAsString></tableAsString>
-          <headerSeparator>|</headerSeparator>
-          <valueSeparator>|</valueSeparator>
-          <ignorableSeparator>|--</ignorableSeparator>
-          <tableTransformers>
-            <transformers>
-              <entry>
-                <string>FROM_LANDSCAPE</string>
-                <fromLandscape/>
-              </entry>
-              <entry>
-                <string>REPLACING</string>
-                <replacing/>
-              </entry>
-              <entry>
-                <string>FORMATTING</string>
-                <formatting/>
-              </entry>
-            </transformers>
-          </tableTransformers>
-          <headers/>
-          <data/>
-          <properties>
-            <property name="headerSeparator" value="|"/>
-            <property name="valueSeparator" value="|"/>
-            <property name="ignorableSeparator" value="|--"/>
-          </properties>
-          <propertiesAsString></propertiesAsString>
-          <namedParameters/>
-          <trim>true</trim>
-        </examplesTable>
-        <steps>
-          <string>Given the user is on the Wikionary home page</string>
-          <string>When the user looks up the definition of the word &apos;pear&apos;</string>
-          <string>Then they should see the definition &apos;An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem.&apos;</string>
-        </steps>
-      </scenario>
-      <storyPath>stories/consult_dictionary/LookupADefinition.story</storyPath>
-      <allowed>true</allowed>
-      <normalPerformableScenario>
-        <parameters/>
-        <givenStories/>
-        <beforeSteps>
-          <matches/>
-        </beforeSteps>
-        <steps>
-          <matches/>
-          <results>
-            <pending>
-              <step>Given the user is on the Wikionary home page</step>
-              <type>PENDING</type>
-              <throwable class="org.jbehave.core.failures.PendingStepFound">
-                <detailMessage>Given the user is on the Wikionary home page</detailMessage>
-                <stackTrace>
-                  <trace>org.jbehave.core.steps.AbstractStepResult$Pending.&lt;init&gt;(AbstractStepResult.java:58)</trace>
-                  <trace>org.jbehave.core.steps.AbstractStepResult.pending(AbstractStepResult.java:174)</trace>
-                  <trace>org.jbehave.core.steps.StepCreator$PendingStep.perform(StepCreator.java:739)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$FineSoFar.run(PerformableTree.java:340)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableSteps.perform(PerformableTree.java:1072)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$AbstractPerformableScenario.performRestartableSteps(PerformableTree.java:938)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$NormalPerformableScenario.perform(PerformableTree.java:977)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableScenario.perform(PerformableTree.java:887)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.performScenarios(PerformableTree.java:811)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.perform(PerformableTree.java:784)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree.performCancellable(PerformableTree.java:416)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree.perform(PerformableTree.java:387)</trace>
-                  <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:291)</trace>
-                  <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:265)</trace>
-                  <trace>java.util.concurrent.FutureTask.run(FutureTask.java:262)</trace>
-                  <trace>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)</trace>
-                  <trace>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)</trace>
-                  <trace>java.lang.Thread.run(Thread.java:745)</trace>
-                </stackTrace>
-                <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-                  <c class="list"/>
-                  <list/>
-                </suppressedExceptions>
-                <uuid>11e93186-07af-4c8e-b11b-70849380687d</uuid>
-              </throwable>
-              <durationInMillis>0</durationInMillis>
-            </pending>
-            <pending>
-              <step>When the user looks up the definition of the word &apos;pear&apos;</step>
-              <type>PENDING</type>
-              <throwable class="org.jbehave.core.failures.PendingStepFound">
-                <detailMessage>When the user looks up the definition of the word &apos;pear&apos;</detailMessage>
-                <stackTrace>
-                  <trace>org.jbehave.core.steps.AbstractStepResult$Pending.&lt;init&gt;(AbstractStepResult.java:58)</trace>
-                  <trace>org.jbehave.core.steps.AbstractStepResult.pending(AbstractStepResult.java:174)</trace>
-                  <trace>org.jbehave.core.steps.StepCreator$PendingStep.doNotPerform(StepCreator.java:743)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$SomethingHappened.run(PerformableTree.java:372)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableSteps.perform(PerformableTree.java:1072)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$AbstractPerformableScenario.performRestartableSteps(PerformableTree.java:938)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$NormalPerformableScenario.perform(PerformableTree.java:977)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableScenario.perform(PerformableTree.java:887)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.performScenarios(PerformableTree.java:811)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.perform(PerformableTree.java:784)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree.performCancellable(PerformableTree.java:416)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree.perform(PerformableTree.java:387)</trace>
-                  <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:291)</trace>
-                  <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:265)</trace>
-                  <trace>java.util.concurrent.FutureTask.run(FutureTask.java:262)</trace>
-                  <trace>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)</trace>
-                  <trace>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)</trace>
-                  <trace>java.lang.Thread.run(Thread.java:745)</trace>
-                </stackTrace>
-                <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-                  <c class="list"/>
-                  <list/>
-                </suppressedExceptions>
-                <uuid>88427e46-b463-4050-a273-24c79b9f98a2</uuid>
-              </throwable>
-              <durationInMillis>0</durationInMillis>
-            </pending>
-            <pending>
-              <step>Then they should see the definition &apos;An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem.&apos;</step>
-              <type>PENDING</type>
-              <throwable class="org.jbehave.core.failures.PendingStepFound">
-                <detailMessage>Then they should see the definition &apos;An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem.&apos;</detailMessage>
-                <stackTrace>
-                  <trace>org.jbehave.core.steps.AbstractStepResult$Pending.&lt;init&gt;(AbstractStepResult.java:58)</trace>
-                  <trace>org.jbehave.core.steps.AbstractStepResult.pending(AbstractStepResult.java:174)</trace>
-                  <trace>org.jbehave.core.steps.StepCreator$PendingStep.doNotPerform(StepCreator.java:743)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$SomethingHappened.run(PerformableTree.java:372)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableSteps.perform(PerformableTree.java:1072)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$AbstractPerformableScenario.performRestartableSteps(PerformableTree.java:938)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$NormalPerformableScenario.perform(PerformableTree.java:977)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableScenario.perform(PerformableTree.java:887)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.performScenarios(PerformableTree.java:811)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree$PerformableStory.perform(PerformableTree.java:784)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree.performCancellable(PerformableTree.java:416)</trace>
-                  <trace>org.jbehave.core.embedder.PerformableTree.perform(PerformableTree.java:387)</trace>
-                  <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:291)</trace>
-                  <trace>org.jbehave.core.embedder.StoryManager$EnqueuedStory.call(StoryManager.java:265)</trace>
-                  <trace>java.util.concurrent.FutureTask.run(FutureTask.java:262)</trace>
-                  <trace>java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)</trace>
-                  <trace>java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)</trace>
-                  <trace>java.lang.Thread.run(Thread.java:745)</trace>
-                </stackTrace>
-                <suppressedExceptions class="java.util.Collections$UnmodifiableRandomAccessList" resolves-to="java.util.Collections$UnmodifiableList">
-                  <c class="list"/>
-                  <list/>
-                </suppressedExceptions>
-                <uuid>1e1389c4-3cea-44e7-a9fa-ac02d118c395</uuid>
-              </throwable>
-              <durationInMillis>0</durationInMillis>
-            </pending>
-          </results>
-        </steps>
-        <afterSteps>
-          <matches/>
-        </afterSteps>
-        <storyAndScenarioMeta>
-          <properties/>
-        </storyAndScenarioMeta>
-        <scenario>
-          <title>Looking up the definition of &apos;pear&apos;</title>
-          <meta>
-            <properties/>
-          </meta>
-          <givenStories>
-            <givenStories/>
-            <givenStoriesAsString></givenStoriesAsString>
-            <examplesTable>
-              <tableAsString></tableAsString>
-              <headerSeparator>|</headerSeparator>
-              <valueSeparator>|</valueSeparator>
-              <ignorableSeparator>|--</ignorableSeparator>
-              <tableTransformers>
-                <transformers>
-                  <entry>
-                    <string>FROM_LANDSCAPE</string>
-                    <fromLandscape/>
-                  </entry>
-                  <entry>
-                    <string>REPLACING</string>
-                    <replacing/>
-                  </entry>
-                  <entry>
-                    <string>FORMATTING</string>
-                    <formatting/>
-                  </entry>
-                </transformers>
-              </tableTransformers>
-              <headers/>
-              <data/>
-              <properties>
-                <property name="headerSeparator" value="|"/>
-                <property name="valueSeparator" value="|"/>
-                <property name="ignorableSeparator" value="|--"/>
-              </properties>
-              <propertiesAsString></propertiesAsString>
-              <namedParameters/>
-              <trim>true</trim>
-            </examplesTable>
-          </givenStories>
-          <examplesTable>
-            <tableAsString></tableAsString>
-            <headerSeparator>|</headerSeparator>
-            <valueSeparator>|</valueSeparator>
-            <ignorableSeparator>|--</ignorableSeparator>
-            <tableTransformers>
-              <transformers>
-                <entry>
-                  <string>FROM_LANDSCAPE</string>
-                  <fromLandscape/>
-                </entry>
-                <entry>
-                  <string>REPLACING</string>
-                  <replacing/>
-                </entry>
-                <entry>
-                  <string>FORMATTING</string>
-                  <formatting/>
-                </entry>
-              </transformers>
-            </tableTransformers>
-            <headers/>
-            <data/>
-            <properties>
-              <property name="headerSeparator" value="|"/>
-              <property name="valueSeparator" value="|"/>
-              <property name="ignorableSeparator" value="|--"/>
-            </properties>
-            <propertiesAsString></propertiesAsString>
-            <namedParameters/>
-            <trim>true</trim>
-          </examplesTable>
-          <steps>
-            <string>Given the user is on the Wikionary home page</string>
-            <string>When the user looks up the definition of the word &apos;pear&apos;</string>
-            <string>Then they should see the definition &apos;An edible fruit produced by the pear tree, similar to an apple but elongated towards the stem.&apos;</string>
-          </steps>
-        </scenario>
-      </normalPerformableScenario>
-      <examplePerformableScenarios/>
-      <status>PENDING</status>
     </performableScenario>
   </scenarios>
 </xref>
