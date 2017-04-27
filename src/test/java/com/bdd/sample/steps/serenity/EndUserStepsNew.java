@@ -1,13 +1,11 @@
 package com.bdd.sample.steps.serenity;
 
-import com.bdd.sample.pages.DictionaryPage;
-import com.bdd.sample.pages.HomePageNew;
-
 import net.thucydides.core.annotations.Step;
 import net.thucydides.core.steps.ScenarioSteps;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.hasItem;
+import com.bdd.sample.pages.HomePageNew;
 
 public class EndUserStepsNew extends ScenarioSteps {
 
