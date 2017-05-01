@@ -1,7 +1,7 @@
-D:\Personal\Projects\mySerenity\src\test\java\com\joecolantonio\serenity\steps\serenity\EndUserSteps.java
-D:\Personal\Projects\mySerenity\src\test\java\com\joecolantonio\serenity\steps\DefinitionSteps.java
-D:\Personal\Projects\mySerenity\src\test\java\com\joecolantonio\serenity\pages\HomePage.java
-D:\Personal\Projects\mySerenity\src\test\java\com\joecolantonio\serenity\pages\DictionaryPage.java
-D:\Personal\Projects\mySerenity\src\test\java\com\joecolantonio\serenity\pages\ItemDetailsPage.java
-D:\Personal\Projects\mySerenity\src\test\java\com\joecolantonio\serenity\pages\SearchResultsPage.java
-D:\Personal\Projects\mySerenity\src\test\java\com\joecolantonio\serenity\AcceptanceTestSuite.java
+C:\Tools\Project\BDDSample\src\test\java\com\bdd\sample\pages\HomePageNew.java
+C:\Tools\Project\BDDSample\src\test\java\com\bdd\sample\steps\serenity\EndUserSteps.java
+C:\Tools\Project\BDDSample\src\test\java\com\bdd\sample\steps\serenity\EndUserStepsNew.java
+C:\Tools\Project\BDDSample\src\test\java\com\bdd\sample\steps\DefinitionSteps.java
+C:\Tools\Project\BDDSample\src\test\java\com\bdd\sample\pages\DictionaryPage.java
+C:\Tools\Project\BDDSample\src\test\java\com\bdd\sample\steps\EtsyHomeSteps.java
+C:\Tools\Project\BDDSample\src\test\java\com\bdd\sample\AcceptanceTestSuite.java

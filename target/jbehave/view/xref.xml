@@ -244,25 +244,25 @@ I want to use Behaviour-Driven Development</localizedNarrative>
                   <step>Given the user is on etsy home page</step>
                   <type>SUCCESSFUL</type>
                   <parametrisedStep>Given the user is on etsy home page</parametrisedStep>
-                  <durationInMillis>9803</durationInMillis>
-                  <start>1493312133100</start>
-                  <end>1493312142903</end>
+                  <durationInMillis>7507</durationInMillis>
+                  <start>1493326377381</start>
+                  <end>1493326384888</end>
                 </successful>
                 <successful>
                   <step>When the user search the shoes</step>
                   <type>SUCCESSFUL</type>
                   <parametrisedStep>When the user search the ｟shoes｠</parametrisedStep>
-                  <durationInMillis>6953</durationInMillis>
-                  <start>1493312144028</start>
-                  <end>1493312150981</end>
+                  <durationInMillis>4734</durationInMillis>
+                  <start>1493326385736</start>
+                  <end>1493326390470</end>
                 </successful>
                 <successful>
                   <step>Then the user land on shoes section page</step>
                   <type>SUCCESSFUL</type>
                   <parametrisedStep>Then the user land on shoes section page</parametrisedStep>
-                  <durationInMillis>489</durationInMillis>
-                  <start>1493312151424</start>
-                  <end>1493312151913</end>
+                  <durationInMillis>464</durationInMillis>
+                  <start>1493326390938</start>
+                  <end>1493326391402</end>
                 </successful>
               </results>
             </steps>
@@ -359,9 +359,9 @@ I want to use Behaviour-Driven Development</localizedNarrative>
       <beforeSteps/>
       <afterSteps/>
       <timing>
-        <durationInMillis>19484</durationInMillis>
-        <start>1493312132882</start>
-        <end>1493312152366</end>
+        <durationInMillis>14635</durationInMillis>
+        <start>1493326377184</start>
+        <end>1493326391819</end>
       </timing>
       <givenStory>false</givenStory>
     </performableStory>
@@ -462,25 +462,25 @@ I want to use Behaviour-Driven Development</localizedNarrative>
               <step>Given the user is on etsy home page</step>
               <type>SUCCESSFUL</type>
               <parametrisedStep>Given the user is on etsy home page</parametrisedStep>
-              <durationInMillis>9803</durationInMillis>
-              <start>1493312133100</start>
-              <end>1493312142903</end>
+              <durationInMillis>7507</durationInMillis>
+              <start>1493326377381</start>
+              <end>1493326384888</end>
             </successful>
             <successful>
               <step>When the user search the shoes</step>
               <type>SUCCESSFUL</type>
               <parametrisedStep>When the user search the ｟shoes｠</parametrisedStep>
-              <durationInMillis>6953</durationInMillis>
-              <start>1493312144028</start>
-              <end>1493312150981</end>
+              <durationInMillis>4734</durationInMillis>
+              <start>1493326385736</start>
+              <end>1493326390470</end>
             </successful>
             <successful>
               <step>Then the user land on shoes section page</step>
               <type>SUCCESSFUL</type>
               <parametrisedStep>Then the user land on shoes section page</parametrisedStep>
-              <durationInMillis>489</durationInMillis>
-              <start>1493312151424</start>
-              <end>1493312151913</end>
+              <durationInMillis>464</durationInMillis>
+              <start>1493326390938</start>
+              <end>1493326391402</end>
             </successful>
           </results>
         </steps>

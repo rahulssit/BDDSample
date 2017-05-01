@@ -7,13 +7,17 @@ import net.thucydides.core.annotations.DefaultUrl;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.SendKeysAction;
 import org.openqa.selenium.remote.server.handler.FindElement;
+import org.openqa.selenium.remote.server.handler.SendKeys;
 
 import net.thucydides.core.pages.PageObject;
 
+import java.sql.Driver;
 import java.util.List;
 
 import static ch.lambdaj.Lambda.convert;
+import org.openqa.selenium.Keys;
 
 @DefaultUrl("http://www.etsy.com")
 public class HomePageNew extends PageObject {
@@ -21,8 +25,7 @@ public class HomePageNew extends PageObject {
 	@FindBy(id="search-query")
     private WebElementFacade searchText;
 	
-	/*@FindBy(xpath="//*[@id='gnav-search']/div/div[2]/button") 
-    private WebElementFacade searchbutton;*/
+	
 	
 	@FindBy(xpath="//*[@id='search-bar']/div/div[2]/button") 
     private WebElementFacade searchbutton;
@@ -34,6 +37,8 @@ public class HomePageNew extends PageObject {
     public void enter_product_keywords(String keyword) {
     	searchText.type(keyword);
     	searchbutton.click();
+
+    	
     }
     
     public void verify_shoes_product_page() {

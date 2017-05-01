@@ -287,25 +287,25 @@
                   "step": "Given the user is on etsy home page",
                   "type": "SUCCESSFUL",
                   "parametrisedStep": "Given the user is on etsy home page",
-                  "durationInMillis": 9803,
-                  "start": 1493312133100,
-                  "end": 1493312142903
+                  "durationInMillis": 7507,
+                  "start": 1493326377381,
+                  "end": 1493326384888
                 },
                 {
                   "step": "When the user search the shoes",
                   "type": "SUCCESSFUL",
                   "parametrisedStep": "When the user search the ｟shoes｠",
-                  "durationInMillis": 6953,
-                  "start": 1493312144028,
-                  "end": 1493312150981
+                  "durationInMillis": 4734,
+                  "start": 1493326385736,
+                  "end": 1493326390470
                 },
                 {
                   "step": "Then the user land on shoes section page",
                   "type": "SUCCESSFUL",
                   "parametrisedStep": "Then the user land on shoes section page",
-                  "durationInMillis": 489,
-                  "start": 1493312151424,
-                  "end": 1493312151913
+                  "durationInMillis": 464,
+                  "start": 1493326390938,
+                  "end": 1493326391402
                 }
               ]
             },
@@ -420,9 +420,9 @@
       "beforeSteps": {},
       "afterSteps": {},
       "timing": {
-        "durationInMillis": 19484,
-        "start": 1493312132882,
-        "end": 1493312152366
+        "durationInMillis": 14635,
+        "start": 1493326377184,
+        "end": 1493326391819
       },
       "givenStory": false
     }
@@ -541,25 +541,25 @@
               "step": "Given the user is on etsy home page",
               "type": "SUCCESSFUL",
               "parametrisedStep": "Given the user is on etsy home page",
-              "durationInMillis": 9803,
-              "start": 1493312133100,
-              "end": 1493312142903
+              "durationInMillis": 7507,
+              "start": 1493326377381,
+              "end": 1493326384888
             },
             {
               "step": "When the user search the shoes",
               "type": "SUCCESSFUL",
               "parametrisedStep": "When the user search the ｟shoes｠",
-              "durationInMillis": 6953,
-              "start": 1493312144028,
-              "end": 1493312150981
+              "durationInMillis": 4734,
+              "start": 1493326385736,
+              "end": 1493326390470
             },
             {
               "step": "Then the user land on shoes section page",
               "type": "SUCCESSFUL",
               "parametrisedStep": "Then the user land on shoes section page",
-              "durationInMillis": 489,
-              "start": 1493312151424,
-              "end": 1493312151913
+              "durationInMillis": 464,
+              "start": 1493326390938,
+              "end": 1493326391402
             }
           ]
         },

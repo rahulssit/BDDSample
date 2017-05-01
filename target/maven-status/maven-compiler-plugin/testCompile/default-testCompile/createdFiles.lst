@@ -1,0 +1,6 @@
+com\bdd\sample\pages\DictionaryPage.class
+com\bdd\sample\steps\serenity\EndUserStepsNew.class
+com\bdd\sample\AcceptanceTestSuite.class
+com\bdd\sample\steps\EtsyHomeSteps.class
+com\bdd\sample\pages\DictionaryPage$1.class
+com\bdd\sample\pages\HomePageNew.class
